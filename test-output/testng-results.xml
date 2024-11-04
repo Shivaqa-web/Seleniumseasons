@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T20:18:19 IST" name="Default suite" finished-at="2024-10-27T20:18:28 IST" duration-ms="9436">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T20:18:19 IST" name="Default test" finished-at="2024-10-27T20:18:28 IST" duration-ms="9436">
+      <class name="fileupload.fileUploadDemo1">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:fileupload.fileUploadDemo1@5afa3c9]" started-at="2024-10-27T20:18:19 IST" name="SetUp" finished-at="2024-10-27T20:18:27 IST" duration-ms="7907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ValidateLoginUsingValidCredentails()[pri:0, instance:fileupload.fileUploadDemo1@5afa3c9]" started-at="2024-10-27T20:18:27 IST" name="ValidateLoginUsingValidCredentails" finished-at="2024-10-27T20:18:28 IST" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginUsingValidCredentails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fileupload.fileUploadDemo1@5afa3c9]" started-at="2024-10-27T20:18:28 IST" name="tearDown" finished-at="2024-10-27T20:18:28 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fileupload.fileUploadDemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
